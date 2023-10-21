@@ -1,3 +1,6 @@
-              - name: Conventional Commit - Action
-                uses: srgoogle23/conventionalcommits-action@1.0.1
+jobs:
+  Conventional_commit_job:    
+    steps:            
+      - name: Conventional Commit - Action
+        uses: srgoogle23/conventionalcommits-action@1.0.1
             
